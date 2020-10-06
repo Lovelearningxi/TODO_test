@@ -7,6 +7,12 @@
 # @Software: PyCharm
 
 
+
+#testfile NO use
+
+
+
+
 from config import *
 
 db = SQlManager()
